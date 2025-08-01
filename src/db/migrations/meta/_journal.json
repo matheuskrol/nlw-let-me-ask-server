@@ -8,6 +8,13 @@
       "when": 1752120341276,
       "tag": "0000_daily_vivisector",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1753335331595,
+      "tag": "0001_volatile_greymalkin",
+      "breakpoints": true
     }
   ]
 }
