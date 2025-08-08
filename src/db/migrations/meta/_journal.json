@@ -15,6 +15,13 @@
       "when": 1753335331595,
       "tag": "0001_volatile_greymalkin",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1754544458952,
+      "tag": "0002_high_echo",
+      "breakpoints": true
     }
   ]
 }
